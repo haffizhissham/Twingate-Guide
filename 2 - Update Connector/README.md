@@ -1,7 +1,8 @@
 # Update steps connector running in Docker
 
-1. as
-2. 
+1. Check the connector version deployed in the host
+   * sasas
+3. 
 
 
 # References:
