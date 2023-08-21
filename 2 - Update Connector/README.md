@@ -4,6 +4,6 @@
 2. 
 
 
-##### References:
+# References:
 - https://www.twingate.com/docs/upgrading-connectors
 - https://www.twingate.com/docs/docker
