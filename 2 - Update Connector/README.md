@@ -1,7 +1,7 @@
 # Update steps connector running in Docker
 
 1. Check the connector version deployed in the host
-   * sasas
+   * ![Check version](Pictures/Update (1).png)
 3. 
 
 
