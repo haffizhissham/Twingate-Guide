@@ -1,6 +1,3 @@
-Test git-VS
-![](Pictures/datadog.png)  
-
 # Update steps connector running in Docker
 * Connector for Docker running in Ubuntu
 
