@@ -23,6 +23,7 @@
 3. Check the upgrade script
    *     curl -s https://binaries.twingate.com/connector/docker-upgrade.sh | sudo nohup sudo bash
    * ![Upgrade script](Pictures/Update(2).png)
+   * > Ensure the version for all connectors in the same host are using similar version of connector's image. If the version is not similar, can't use this script. Need to manually delete old container and [deploy a new container](/1%20-%20Deploy%20connector/) with latest image.
    * > Remote connection will temporarily be disconnected if doing this remotely from outside network (via Twingate NAT-T)
 
 </br>
